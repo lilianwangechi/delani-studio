@@ -1,0 +1,9 @@
+.jumbotron{
+text-align: center;
+background: url("/images/background/1_img.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+
+}
