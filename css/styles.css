@@ -7,3 +7,15 @@ background-size: cover;
 color: white;
 
 }
+.card{
+border-color: white;
+  text-align: center;
+  /* background-image: url("/images/background/2_image.jpg"); */
+}
+.services{
+  background-image: url("/images/background/2_image.jpg");
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: ;
+}
