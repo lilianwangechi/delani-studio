@@ -17,7 +17,6 @@ background-size: cover;
 .card{
 border-color: white;
   text-align: center;
-  /* background-image: url("/images/background/2_image.jpg"); */
 }
 .services{
   background-image: url("/images/background/2_image.jpg");
@@ -28,5 +27,30 @@ border-color: white;
 }
 .form{
 background-image: url("/images/background/3_image.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
 
+
+}
+.form textarea{
+background-color: transparent;
+border-color: white;
+}
+#emailbox{
+float: right;
+width: 185px;
+background-color: transparent;
+border-color: white;
+text
+}
+#namebox{
+float: left;
+width: 185px;
+background-color: transparent;
+border-color: white;
+}
+::placeholder{
+  color: black;
 }
