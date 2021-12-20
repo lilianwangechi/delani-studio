@@ -1,10 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@1,300&display=swap');
+
+.container-fluid{
+font-family: 'Source Sans 3', sans-serif;
+
+}
+
+
 .jumbotron{
 text-align: center;
 background: url("/images/background/1_img.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-color: white;
 
 }
 .card{
@@ -19,10 +26,7 @@ border-color: white;
   padding-bottom: 5%;
   text-align: ;
 }
-.row{
-margin: 2%;
-}
-.col-3{
+.grid{
 
 
 }
