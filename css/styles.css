@@ -18,6 +18,16 @@ background-size: cover;
 border-color: white;
   text-align: center;
 }
+/* .col-3{ */
+ background-color: brown;
+ 
+}
+/* .row{
+  row-gap: 20px;
+  color: deeppink;
+} */
+
+
 .services{
   background-image: url("/images/background/2_image.jpg");
   color: white;
@@ -53,4 +63,13 @@ border-color: white;
 }
 ::placeholder{
   color: black;
+}
+.one{
+  display: none;
+}
+.two{
+  display: none;
+}
+.three{
+  display: none;
 }
