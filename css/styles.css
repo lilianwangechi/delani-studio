@@ -79,3 +79,10 @@ border-color: white;
 .card{
   margin-bottom: 40px;
 }
+.space{
+  border:solid 10px white; 
+  a
+}
+/* .card-body{
+  align-content: center; */
+}
