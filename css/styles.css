@@ -73,3 +73,9 @@ border-color: white;
 .three{
   display: none;
 }
+#content11{
+  display: none;
+}
+.card{
+  margin-bottom: 40px;
+}
