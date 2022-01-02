@@ -74,15 +74,28 @@ border-color: white;
   display: none;
 }
 #content11{
-  display: none;
+  text-align: center;
+  font-weight: bold;
+
 }
 .card{
   margin-bottom: 40px;
 }
 .space{
   border:solid 10px white; 
-  a
+ 
 }
-/* .card-body{
-  align-content: center; */
+.hove{
+  display: none;
+  position: absolute;
+  top: 100px;
+  left: 70px;
+font-weight: bolder;
+  
+
+}
+.house{
+  position: absolute;
+  margin: 1%;
+  
 }
