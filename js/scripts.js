@@ -35,25 +35,34 @@ $(document).ready(function(){
 
 
 //hoover effect
+
 $(function(){
   $(".space").hover(
   function() {
-    $(this).stop().animate({"opacity": "0.4"}, 350);
-    $(".hove").show();
+    $(this).stop().animate({"opacity": "0.5"},350 );
+    $(".hove").show();   
   },
   function() {
-    $(this).stop().animate({"opacity": "1"}, 350);
+    $(this).stop().animate({"opacity": "1"}, 400);
+    $(".hove").hide();
   });
 })
 
 
+// business interface
+$(document).ready(function() {
+  $("#form_1").submit(function(event) {
+    var nameInput = $("input#namebox").val();
+    alert(nameInput + 'we have received your message.Thank you.');
+    event.preventDefault();
+  });
+});
 
 
-
-// $('#work').mouseover(function () {
-//   $('#overlay').show();
-// }).mouseout(function () {
-//   $('#overlay').hide();
+// $(document).ready(function() {
+//   var number1 = parseInt($("#add1").val());
+//   var number2 = parseInt($("#add2").val());
+//   alert(add(number1, number2));
 // });
 
 
@@ -67,25 +76,3 @@ $(function(){
 
 
 
-
-
-// $(document).ready(function(){
-//   $("#img_1").click(function()})
-//     $(".one").show();
-//   }
-// });
-
-
-
-
-
-
-
-// $(document).ready(function(){
-//   $("p").hover(function(){
-//     $(this).addClass("highlight");
-    
-//   },function(){
-//     $(this).removeClass("highlight");
-//   });
-// });
