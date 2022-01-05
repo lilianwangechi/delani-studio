@@ -1,7 +1,6 @@
-// use interface
+// user interface
 $(document).ready(function(){
   $("#img_1").click(function(){
-    // $("#content11").css("bold","center");
     $("#img_1").toggle();
       $(".one").toggle();
        $(".one").click(function(){
@@ -12,7 +11,6 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
   $("#img_2").click(function(){
-    // $("#content11").css("bold","center");
     $("#img_2").toggle();
       $(".two").toggle();
        $(".two").click(function(){
@@ -23,7 +21,6 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
   $("#img_3").click(function(){
-    // $("#content11").css("bold","center");
     $("#img_3").toggle();
       $(".three").toggle();
        $(".three").click(function(){
@@ -59,11 +56,7 @@ $(document).ready(function() {
 });
 
 
-// $(document).ready(function() {
-//   var number1 = parseInt($("#add1").val());
-//   var number2 = parseInt($("#add2").val());
-//   alert(add(number1, number2));
-// });
+
 
 
 
