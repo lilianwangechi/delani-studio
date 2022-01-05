@@ -6,7 +6,7 @@ Lilian Wangechi
 This is a website that allow the user to see the previous projects we have worked on .
 
 ### Live Page
-PUT GH-PAGES LINK[]
+PUT GH-PAGES LINK[https://lilianwangechi.github.io/delani-studio/]
 ## Setup / Installation
 Open Terminal {ctrl+alt+T}
 git clone [PUT GITHUB LINK] 
