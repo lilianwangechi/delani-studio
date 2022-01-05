@@ -7,7 +7,7 @@ font-family: 'Source Sans 3', ;
 
 .jumbotron{
 text-align: center;
-background: url("/images/background/1_img.jpg");
+background: url("/images/1_img.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -20,14 +20,14 @@ border-color: white;
 
 
 .services{
-  background-image: url("/images/background/2_image.jpg");
+  background-image: url("/images/2_image.jpg");
   color: white;
   padding-top: 5%;
   padding-bottom: 5%;
 
 }
 .form{
-background-image: url("/images/background/3_image.jpg");
+background-image: url("/images/3_image.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
