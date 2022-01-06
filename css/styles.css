@@ -4,7 +4,7 @@ font-family: 'Source Sans 3', ;
 
 }
 
-
+/* 
 .jumbotron{
 text-align: center;
 background: url("/images/img1.jpg");
@@ -12,21 +12,21 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 
-}
+} */
 .card{
 border-color: white;
   text-align: center;
 }
 
 
-.services{
+/* .services{
   background-image: url("/images/img2.jpg");
   color: white;
   padding-top: 5%;
   padding-bottom: 5%;
 
-}
-.form{
+} */
+/* .form{
 background-image: url("/images/img3.jpg");
 background-position: center;
 background-repeat: no-repeat;
@@ -34,7 +34,7 @@ background-size: cover;
 color: white;
 
 
-}
+} */
 .form textarea{
 background-color: transparent;
 border-color: white;
