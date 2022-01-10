@@ -73,17 +73,45 @@ border-color: white;
   margin-bottom: 40px;
 }
 .space{
-  border:solid 10px white; 
-
+  border:solid 15px white; 
+  opacity: 1;
+ padding: 10%%;
 }
 .hove{
-  display: none;
   position: absolute;
   top: 100px;
   left: 70px;
   font-weight: bolder;
+  background-color: rgba(255, 255, 255, .4);
+  height: 4rem;
+  width: 8rem;
+  display: none;
 }
-.house{
-  position: absolute;
-  margin: 1%;
+
+/* #pro1{
+display: none;
+
 }
+#pro2{
+display: none;
+}
+#pro3{
+display: none;
+}
+#pro4{
+display: none;
+}
+#pro5{
+display: none;
+}
+#pro6{
+display: none;
+}
+#pro7{
+display: none;
+}
+#pro8{
+display: none;
+}
+ */
+
