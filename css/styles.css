@@ -18,24 +18,7 @@ border-color: white;
   text-align: center;
 }
 
-
-/* .services{
-  background-image: url("/images/img2.jpg");
-  color: white;
-  padding-top: 5%;
-  padding-bottom: 5%;
-
-} */
-/* .form{
-background-image: url("/images/img3.jpg");
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-color: white;
-
-
-} */
-.form textarea{
+/* .form textarea{
 background-color: transparent;
 border-color: white;
 }
@@ -54,7 +37,7 @@ border-color: white;
 }
 ::placeholder{
   color: black;
-}
+} */
 .one{
   display: none;
 }
@@ -75,51 +58,52 @@ border-color: white;
 .space1{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+  margin: 90px;
 }
 .space2{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+ margin: 90px;
 }
 .space3{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+ margin: 90px;
 }
 
 .space4{
-  border:solid 15px white; 
+  border:solid 5px white; 
   opacity: 1;
- padding: 10%;
+ margin: 100px 40px 90px 150px;
+
 }
 
 .space5{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+ margin: 90px;
 }
 
 .space6{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+  margin: 90px;
 }
 .space7{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+  margin:90px;
 }
 .space8{
   border:solid 15px white; 
   opacity: 1;
- padding: 10%;
+  margin: 90px;
 }
 
 .hove1{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -129,8 +113,8 @@ border-color: white;
 
 .hove2{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -140,8 +124,8 @@ border-color: white;
 
 .hove3{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -151,8 +135,8 @@ border-color: white;
 
 .hove4{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -162,8 +146,8 @@ border-color: white;
 
 .hove5{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -173,8 +157,8 @@ border-color: white;
 
 .hove6{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -184,8 +168,8 @@ border-color: white;
 
 .hove7{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -195,8 +179,8 @@ border-color: white;
 
 .hove8{
   position: absolute;
-  top: 100px;
-  left: 70px;
+  top: 200px;
+  left: 200px;
   font-weight: bolder;
   background-color: rgba(255, 255, 255, .4);
   height: 4rem;
@@ -209,30 +193,5 @@ border-color: white;
 
 
 
-/* #pro1{
-display: none;
 
-}
-#pro2{
-display: none;
-}
-#pro3{
-display: none;
-}
-#pro4{
-display: none;
-}
-#pro5{
-display: none;
-}
-#pro6{
-display: none;
-}
-#pro7{
-display: none;
-}
-#pro8{
-display: none;
-}
- */
 
